@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fancy Image Browser</string>
+
+    <string name="search_btn_title">Search</string>
+    <string name="search_invite">Type here</string>
+    <string name="search_query_empty">Search query can\'t be empty.\nType something!</string>
+    <string name="search_error">Failed to load images list.\nPlease check your Internet connection and try again.</string>
+    <string name="search_nothing_found">Nothing found :(</string>
+    <string name="image_dialog_text" formatted="false">Item #%d %s.\nTitle:%s\n\nImage url: %s\n\nPage url: %s\n\nSize: %s</string>
+    <string name="dialog_action_open_page">Open page</string>
+    <string name="dialog_action_open_image">Open image</string>
+    <string name="resampled_to" formatted="false">(resampled to %s)</string>
+</resources>
